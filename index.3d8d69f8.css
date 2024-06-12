@@ -1,0 +1,2 @@
+body{margin:0}.main__content{grid-template-columns:repeat(4,200px);justify-content:center;gap:46px 48px;padding:50px 40px;display:grid}@media (width<=955px){.main__content{grid-template-columns:repeat(3,200px)}}@media (width<=855px){.main__content{grid-template-columns:repeat(2,200px)}}@media (width<=500px){.main__content{grid-template-columns:repeat(1,200px)}}
+/*# sourceMappingURL=index.3d8d69f8.css.map */
